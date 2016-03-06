@@ -18,3 +18,5 @@ Unmatch is a variant of the "match 3" types of games like Candy Crush or Best Fi
 - You must harvest the number of gems specified by the game.
 - You have a specific number of turns to finish harvesting your gems.
 - The game gets harder and harder as you must find more gems each level.
+
+This is a student project for BJTU by Rémy Picanço, Student ID: 15129106
