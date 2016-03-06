@@ -8,6 +8,7 @@ Unmatch is a variant of the "match 3" types of games like Candy Crush or Best Fi
 
 ##Player Goals
 - The player must unmatch (isolate) the gems to harvest them
+- To win a level you must harvest the number of gems specified
 
 ##Game World
 - The player must unmatch the gems to win
