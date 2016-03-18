@@ -2,6 +2,9 @@
 
 **Unmatch** is a variant of the *"match 3"* types of games like [Candy Crush](http://candycrushsaga.com/) or [Best Fiends](https://bestfiends.com/) only with a little twist on the subject that instead of matching 3 or more items, you must isolate them from their peers.
 
+##Prototype screenshot:
+![alt tag](http://oi68.tinypic.com/2qn9i8j.jpg)
+
 ###Game Players
 - **The game referee**, generating the board and setting up the difficulty with the number of turns the player can play.
 - **You** (the player), moving the gems and harvesting them
